@@ -1,2 +1,5 @@
 Dia 1.
 explorando Git.
+
+Dia 2.
+Aprendiendo sobre commits.
